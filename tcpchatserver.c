@@ -13,7 +13,7 @@
 #include <stdio.h>
 #include "tcpchatserver.h"
 
-// main function
+// main function 
 int main(int argc, char* argv[])
 {
 	return 0;
