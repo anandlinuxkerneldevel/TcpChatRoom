@@ -1,0 +1,4 @@
+#ifndef TCPCHATSERVER_H
+#define TCPCHATSERVER_H
+
+#endif //TCPCHATSERVER_H

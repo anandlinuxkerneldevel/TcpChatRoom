@@ -1,0 +1,4 @@
+#ifndef TCPCHATCLIENT_H
+#define TCPCHATCLIENT_H
+
+#endif //TCPCHATCLIENT_H
